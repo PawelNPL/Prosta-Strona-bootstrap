@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prosta-Strona-bootstrap/static/css/main.89f459c5.css",
+    "main.js": "/Prosta-Strona-bootstrap/static/js/main.7e04a53a.js",
+    "static/js/453.1e979382.chunk.js": "/Prosta-Strona-bootstrap/static/js/453.1e979382.chunk.js",
+    "index.html": "/Prosta-Strona-bootstrap/index.html",
+    "main.89f459c5.css.map": "/Prosta-Strona-bootstrap/static/css/main.89f459c5.css.map",
+    "main.7e04a53a.js.map": "/Prosta-Strona-bootstrap/static/js/main.7e04a53a.js.map",
+    "453.1e979382.chunk.js.map": "/Prosta-Strona-bootstrap/static/js/453.1e979382.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89f459c5.css",
+    "static/js/main.7e04a53a.js"
+  ]
+}
